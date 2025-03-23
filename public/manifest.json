@@ -1,6 +1,6 @@
 {
     "name": "OCR Image to Text",
-    "short_name": "OCR Text",
+    "short_name": "TextifyAI",
     "description": "A web app to extract text from images using OCR.",
     "start_url": "/",
     "display": "standalone",
