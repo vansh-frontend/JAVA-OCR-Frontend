@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="bg-gray-900 text-white py-6 text-center">
       <div className="container mx-auto">
         {/* Names & Email */}
-        <p className="text-lg font-semibold">Vansh & Anshupreet</p>
+        <p className="text-lg font-semibold">Vansh , Anshupreet & Madhav </p>
         <p className="text-sm text-gray-400 flex items-center justify-center space-x-2">
           <FaEnvelope className="inline-block text-gray-400 hover:text-red-500 transition" />
           <a 
